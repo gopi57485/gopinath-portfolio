@@ -32,7 +32,7 @@ const About = () => {
           </h2>
           <div className="w-20 h-1 bg-gradient-to-r from-cyan-400 to-purple-600 mx-auto rounded-full"></div>
           <p className="mt-6 text-gray-400 text-lg max-w-2xl mx-auto">
-            Frontend Developer focused on building modern, responsive, and user-friendly web applications
+            Web Developer focused on building modern, responsive, and user-friendly web applications
           </p>
         </div>
 
@@ -49,7 +49,7 @@ const About = () => {
 
               <div className="space-y-6 text-gray-300 leading-relaxed">
                 <p className="text-base md:text-lg">
-                  I am a passionate Frontend Developer with one year of hands-on experience in building
+                  I am a passionate Web Developer with one year of hands-on experience in building
                   responsive and visually appealing web applications. I enjoy transforming design concepts
                   into functional user interfaces while maintaining clean, scalable, and maintainable code
                   using modern frontend technologies.
