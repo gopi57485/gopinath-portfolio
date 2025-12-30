@@ -48,6 +48,7 @@ const About = () => {
               </h3>
 
               <div className="space-y-6 text-gray-300 leading-relaxed">
+
                 <p className="text-base md:text-lg">
                   I am a passionate Web Developer with one year of hands-on experience in building
                   responsive and visually appealing web applications. I enjoy transforming design concepts
