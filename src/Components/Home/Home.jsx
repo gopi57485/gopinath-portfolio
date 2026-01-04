@@ -49,7 +49,7 @@ export default function Home() {
               <div className="space-y-3">
                 <h2 className="text-2xl md:text-3xl text-neutral-300 font-semibold">Web Developer | Designer</h2>
                 <p className="text-lg text-neutral-400 max-w-lg leading-relaxed">
-                  Web developer with one year of React experience, building responsive, scalable web applications through real-world projects, focused on clean code and modern user-centered design.
+                  Web developer with one year of experience, building responsive, scalable web applications through real-world projects, focused on clean code and modern user-centered design.
                 </p>
 
 

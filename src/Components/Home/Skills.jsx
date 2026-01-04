@@ -51,6 +51,10 @@ const Skills = () => {
       icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" 
     },
     { 
+      name: "WordPress", 
+      icon: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" 
+    },
+    { 
       name: "Responsive Design", 
       icon: "/responsive.png" 
     },
